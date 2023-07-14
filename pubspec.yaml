@@ -1,10 +1,10 @@
 name: sliding_switch
-description:  Sliding Switch - A simple switch widget. It can be fully customized with desired width, colors, text etc. It also maintains selection state.
-version: 1.0.0
+description: A simple switch widget. It can be fully customized with desired width, colors, text etc. It also maintains selection state.
+version: 1.2.0
 homepage: https://github.com/CodeAppRun/sliding_switch
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -19,7 +19,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
